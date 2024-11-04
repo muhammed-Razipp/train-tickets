@@ -1,0 +1,61 @@
+#by{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL9vG2fZ1a-wSTS3OFmAacsSOC8HIGFk8L6g&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#one{
+    color:wheat;
+    font-style: italic;
+    font-size: xx-large;
+    margin-top: 5px;
+    margin: 30px;
+    margin-left: 450px;
+}
+#pp{
+    border: solid black 4px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 55px;
+    padding: 120px;
+    border-radius: 15px;
+
+}
+.two{
+    color:wheat;
+    font-size: 45px;
+    margin: 6px;
+    margin-top: 3px;
+}
+#five{
+color: black;
+
+width: 250px;
+height: 100px;
+margin-left: 45px;
+border-radius: 5px;
+font-size: x-large;
+
+}
+#YES{
+    color: black;
+    background-color:goldenrod;
+    width: 150px;
+    height: 55px;
+    margin-left: 100px;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: larger;
+}
+#hi{
+    margin-left: 20px;
+    color: black;
+    
+}
+#lo{
+    margin-left: 30px;
+    color: black;
+    height: 100px;
+}
+.re{
+    height: 30px;
+}

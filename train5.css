@@ -1,0 +1,34 @@
+#razi{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37epWGiqN4ZsjqQg0kGtuZQD0DIv-ptvYHQ&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.ra{
+    border: solid rgb(240, 235, 235);
+    margin: 150px;
+    padding: 100px;
+    width: 250px;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+#yo{
+    color: wheat;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+#dd{
+    color: wheat;
+    font-size: larger;
+    margin-left: 50px;
+
+}
+#rp{
+    width: 100px;
+    
+    color: black;
+    margin-top: 1px;
+    margin-left: 70px;
+
+}

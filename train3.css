@@ -1,0 +1,67 @@
+
+
+.aa{
+    
+    margin: 30px;
+    width: 120;
+    padding: 15px;
+    margin-right: 50px;
+    font-size: large;
+
+    
+}
+.iam{
+    margin: 30px;
+    color: beige;
+    font-size: xx-large;
+    margin-top: 1px;
+    margin-left: 480px;
+    
+    
+    
+}
+    
+#razi{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbc8Qrc3WKoBRfP_ypC-WJRbN1YFH3WAfpmA&s);
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+.aaa{
+    background-color:rgb(245, 238, 238);
+    margin: 7px;
+    margin-left: 150px;
+    width: 45px;
+    height: 40px;
+    margin-top: 1px;
+    
+
+}
+#zz{
+    
+    background-color: orangered;
+    color: wheat;
+    margin-top: 0px;
+    height: 55px;
+    font-size: x-large;
+    margin-left: 400px;
+}
+#rrr{
+    border: solid rgb(20, 20, 20) 5px;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 0px;
+    height: 600px;
+}
+#ke{
+    margin-left: 510px;
+    height: 50px;
+    background-color: burlywood;
+    margin-top: 0px;
+}
+#fe{
+    margin-left:510px ;
+    color: wheat;
+    font-size: larger;
+}

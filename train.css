@@ -1,0 +1,47 @@
+#one{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngUZzN0vd0mZ1DtMEUlFIEAqw1LDLIj09hA&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.hallo{
+    border: solid rgb(20, 20, 20);
+    padding: 100px;
+    margin: 150px;
+    width: 250px;
+    margin-left:400px ;
+    margin-top: 1px;
+    border-radius: 15px;
+    height: 350px;
+    
+}
+.ras{
+color: wheat;
+padding: 10px;
+font-size:larger;
+margin: 6px;
+    
+}
+#login{
+    background-color: gold;
+    margin: 30px;
+    margin-top: 3px;
+    width: 120px;
+    padding: 15px;
+    margin-right: 50px;
+    font-size: larger;
+}
+.pr{
+    padding: 6px;
+}
+.moh{
+    font-size: small;
+    color: wheat;
+}
+#razi{
+    font-size: x-large;
+    color: wheat;
+    margin: 40px;
+    margin-left: 550px;
+    
+}
