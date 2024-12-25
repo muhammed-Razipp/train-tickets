@@ -1,8 +1,7 @@
 #razi{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37epWGiqN4ZsjqQg0kGtuZQD0DIv-ptvYHQ&s);
     background-repeat: no-repeat;
-    background-size: cover;
-    
+    background-size: cover;   
 }
 .ra{
     border: solid rgb(240, 235, 235);
@@ -16,7 +15,7 @@
 #yo{
     color: wheat;
     margin-left: 50px;
-    margin-top: 0px;
+    margin-top: 1px;
 }
 #razzz{
     color: wheat;
